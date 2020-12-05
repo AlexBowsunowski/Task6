@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aleksandr/Documents/gitproj/Task6/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+cmath
+-
+vector
+-
+
